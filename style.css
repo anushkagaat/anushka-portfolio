@@ -105,7 +105,7 @@
     letter-spacing: -0.02em;
     color: var(--text-primary);
     margin-bottom: 20px;
-    max-width: 700px;
+    max-width: 900px;
     opacity: 0; animation: fadeUp 0.7s ease forwards 0.2s;
   }
   h1 em { font-style: italic; color: var(--accent); }
