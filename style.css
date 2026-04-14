@@ -100,7 +100,7 @@
   @keyframes pulse { 0%,100%{opacity:1;transform:scale(1)} 50%{opacity:0.5;transform:scale(0.8)} }
   h1 {
     font-family: 'DM Serif Display', serif;
-    font-size: clamp(2.8rem, 5vw, 4.5rem);
+    font-size: clamp(3.2rem, 5.5vw, 5rem);
     line-height: 1.1;
     letter-spacing: -0.02em;
     color: var(--text-primary);
